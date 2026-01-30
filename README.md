@@ -84,7 +84,7 @@ a: _, b: _, x: _, y: _, p: _, q: _
 **4.** Predict what the output will be if you change `++p` to `p++`. 
 
 Make this change and check if you were correct.
-# will be same
+will be same
 
 
 **5.** When you have your code working commit your code and sync to your GitHub classroom repository with the commit message:
